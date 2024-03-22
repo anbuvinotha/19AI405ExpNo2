@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Anbu Vinotha.S</h3>
+<h3>Register Number: 2122323230015</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -57,8 +57,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 <h3> PROGRAM </h3>
 
-'''Depth First Search uses STACK AND RECURSION<br/>
-'''
+Depth First Search uses STACK AND RECURSION<br/>
+```
 #import defaultdict<br/>
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -81,6 +81,7 @@ visited=default(bool)
 path=[]
 traversedpath=dfs(grph,start,visited,path)
 print(traversedpath)
+```
 
 
 <h3>Sample Input</h3>
