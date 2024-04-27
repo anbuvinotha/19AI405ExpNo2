@@ -117,6 +117,10 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
+## Output:
+![308506677-00a44bf0-a89c-40e0-a1ba-867ae049ee4e](https://github.com/anbuvinotha/19AI405ExpNo2/assets/144871822/d4be765e-324e-4b46-b687-927dbb661587)
+
+
 <hr>
 <h3>Result:</h3>
 <hr>
